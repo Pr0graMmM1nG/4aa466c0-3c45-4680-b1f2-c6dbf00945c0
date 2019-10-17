@@ -1,0 +1,12 @@
+C:\Users\Администратор\AppData\Local\Temporary Projects\Paştele\bin\Debug\Paştele.exe.config
+D:\Mail.Ru\C# Project\ClassPashTELE\Paştele\Paştele\bin\Debug\Paştele.exe.config
+D:\Mail.Ru\C# Project\ClassPashTELE\Paştele\Paştele\bin\Debug\Paştele.exe
+D:\Mail.Ru\C# Project\ClassPashTELE\Paştele\Paştele\bin\Debug\Paştele.pdb
+D:\Mail.Ru\C# Project\ClassPashTELE\Paştele\Paştele\obj\Debug\Paştele.csprojResolveAssemblyReference.cache
+D:\Mail.Ru\C# Project\ClassPashTELE\Paştele\Paştele\obj\Debug\Paştele.Form1.resources
+D:\Mail.Ru\C# Project\ClassPashTELE\Paştele\Paştele\obj\Debug\Paştele.Properties.Resources.resources
+D:\Mail.Ru\C# Project\ClassPashTELE\Paştele\Paştele\obj\Debug\Paştele.csproj.GenerateResource.Cache
+D:\Mail.Ru\C# Project\ClassPashTELE\Paştele\Paştele\obj\Debug\Paştele.exe
+D:\Mail.Ru\C# Project\ClassPashTELE\Paştele\Paştele\obj\Debug\Paştele.pdb
+D:\Mail.Ru\C# Project\ClassPashTELE\Paştele\Paştele\bin\Debug\OrthoCathoPashTELE.dll
+D:\Mail.Ru\C# Project\ClassPashTELE\Paştele\Paştele\bin\Debug\OrthoCathoPashTELE.pdb

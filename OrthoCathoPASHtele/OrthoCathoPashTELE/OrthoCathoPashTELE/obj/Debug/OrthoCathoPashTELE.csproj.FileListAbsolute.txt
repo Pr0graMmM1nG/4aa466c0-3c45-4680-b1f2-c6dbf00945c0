@@ -1,0 +1,7 @@
+D:\Mail.Ru\C# Project\ClassPashTELE\OrthoCathoPASHtele\OrthoCathoPashTELE\OrthoCathoPashTELE\bin\Debug\OrthoCathoPashTELE.dll
+D:\Mail.Ru\C# Project\ClassPashTELE\OrthoCathoPASHtele\OrthoCathoPashTELE\OrthoCathoPashTELE\bin\Debug\OrthoCathoPashTELE.pdb
+D:\Mail.Ru\C# Project\ClassPashTELE\OrthoCathoPASHtele\OrthoCathoPashTELE\OrthoCathoPashTELE\bin\Debug\OrthoCathoPashTELE.dll.CodeAnalysisLog.xml
+D:\Mail.Ru\C# Project\ClassPashTELE\OrthoCathoPASHtele\OrthoCathoPashTELE\OrthoCathoPashTELE\bin\Debug\OrthoCathoPashTELE.dll.lastcodeanalysissucceeded
+D:\Mail.Ru\C# Project\ClassPashTELE\OrthoCathoPASHtele\OrthoCathoPashTELE\OrthoCathoPashTELE\obj\Debug\OrthoCathoPashTELE.csprojResolveAssemblyReference.cache
+D:\Mail.Ru\C# Project\ClassPashTELE\OrthoCathoPASHtele\OrthoCathoPashTELE\OrthoCathoPashTELE\obj\Debug\OrthoCathoPashTELE.dll
+D:\Mail.Ru\C# Project\ClassPashTELE\OrthoCathoPASHtele\OrthoCathoPashTELE\OrthoCathoPashTELE\obj\Debug\OrthoCathoPashTELE.pdb
